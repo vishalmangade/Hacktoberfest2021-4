@@ -34,11 +34,10 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 
 If you liked then Star ⭐ the repo & make sure to follow 😇
 
+<br>
 
-## Wait for Pull Request to be Labelled
-We wil merge your PR, Thanks for being Patience. 🙏
 
-## Celebrate - you've done your first pull request!!
+### Celebrate - you've done your first pull request!!
 Yay!! Refresh your profile at <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> and see the updates. 🎉
 
 ## Author

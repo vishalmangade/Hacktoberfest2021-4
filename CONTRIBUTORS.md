@@ -12,4 +12,5 @@
 | Amrisha Pandey       | [@amrisha27](https://github.com/amrisha27)                    |         1        |
 | Sudhankar Singh      | [@sudhankarsingh](https://github.com/sudhankarsingh)          |         1        |
 | Sumit Chouhan        | [@sumitchouhan13](https://github.com/sumitchouhan13)          |         1        |
+| Priyanshu Gupta      | [@wsLord](https://github.com/wsLord)                          |         1        |
 | Sai Varshith         | [@sai-varshith](https://github.com/sai-varshith)              |         1        |

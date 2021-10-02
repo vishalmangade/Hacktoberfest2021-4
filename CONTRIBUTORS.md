@@ -9,3 +9,4 @@
 | Himani Chaudhary     | [@himaani1](https://github.com/himaani1)                      |         1        |
 | Khushboo Arora       | [@khushboo0801](https://github.com/khushboo0801)              |         1        |
 | Fikri Khairul Shaleh | [@fikriks](https://github.com/fikriks)                        |         1        |
+| Amrisha Pandey       | @amrisha27](https://github.com/amrisha27)                     |         1        |

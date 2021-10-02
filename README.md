@@ -26,7 +26,7 @@ For all the developers out there make your first Pull Request and earn a free Te
 Here are 3 quick and painless ways to contribute to this project:
 
 * Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
+* Add any valid files(C,C++,HTML,JavaScript,React.JS,Flutter,Kotlin,etc.)
 * Create a simple "Hello, World" script in a language of your choice
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!

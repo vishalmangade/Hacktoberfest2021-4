@@ -30,11 +30,11 @@ SliverAppBar(
               // backgroundColor: Colors.orange,
               //leadingWidth: 50.0,
               centerTitle: true,
-              title: SizedBox(
-                height: 100,
-                width: 200,
-                child: Image.asset("assets/images/9.png",
-                    filterQuality: FilterQuality.low, fit: BoxFit.cover),
+             
+               
+              
+         
+
               ),
 
               bottom: TabBar(

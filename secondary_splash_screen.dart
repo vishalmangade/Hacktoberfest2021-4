@@ -23,7 +23,7 @@ class _SplashScreenState extends State<SplashScreen> {
               gradient: LinearGradient(
                   begin: Alignment.topCenter,
                   end: Alignment.bottomCenter,
-                  stops: [0.5, 0.9],
+                  stops: [0.4, 0.7],
                   colors: [Colors.black, Colors.yellow])),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
                         style: TextStyle(
                           color: Colors.blueAccent,
                           fontWeight: FontWeight.bold,
-                          //fontSize: 30.0,
+                         
                         ),
                       ),
                     ]),
@@ -57,7 +57,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     TextSpan(
                       text: 'Kunal Jain',
                       style: TextStyle(
-                        fontFamily: GoogleFonts.poppins().fontFamily,
+                        fontFamily: GoogleFonts.lato().fontFamily,
                         color: Colors.lime[50],
                         fontWeight: FontWeight.bold,
                         fontSize: 15.0,

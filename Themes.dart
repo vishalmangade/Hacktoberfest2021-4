@@ -11,9 +11,9 @@ var colorList = [
   Colors.red,
   Colors.brown,
   Colors.deepPurple,
-  // Colors.grey,
+   Colors.grey,
 ];
-bool isDarkMode = false;
+
 
 class MyTheme {
   static ThemeData lightTheme(BuildContext context) => ThemeData(

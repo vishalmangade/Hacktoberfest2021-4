@@ -19,3 +19,4 @@
 | Jigar Shah           | [@shahjigar556](https://github.com/shahjigar556)              |         1        |
 | Deshan Chathuranga   | [@Deshan-Chathuranga](https://github.com/Deshan-Chathuranga)  |         1        |
 | Prakhar Katiyar      | [@Prakhar-Katiyar](https://github.com/Prakhar-Katiyar)        |         1        |
+| Hitesh Sharma        | [@hitesh-sharma](https://github.com/hitesh181)                |         1        |

@@ -17,3 +17,4 @@
 | Moh. Absar Rahman    | [@absarrahman](https://github.com/absarrahman)                |         1        |
 | Parth Mistry         | [@m-prth](https://github.com/m-prth)                          |         1        |
 | Jigar Shah           | [@shahjigar556](https://github.com/shahjigar556)              |         1        |
+| Deshan Chathuranga   | [@Deshan-Chathuranga](https://github.com/Deshan-Chathuranga)  |         1        |

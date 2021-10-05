@@ -21,3 +21,4 @@
 | Prakhar Katiyar      | [@Prakhar-Katiyar](https://github.com/Prakhar-Katiyar)        |         1        |
 | Mukesh Shelke        | [@Mukesh07](https://github.com/mukesh2309)                    |         1        |
 | Nimish Bajaj         | [@Nimish200](https://github.com/Nimish2000)                   |         1        |  
+| Debargha Mukherjee   | [@Deabrgha-arch](https://github.com/Debargha-arch)            |         1        |
